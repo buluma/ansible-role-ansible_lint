@@ -4,7 +4,7 @@ Install ansible-lint on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-ansible_lint/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-ansible_lint/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ansible_lint)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/ansible_lint)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/ansible_lint)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|
+|[![github](https://github.com/buluma/ansible-role-ansible_lint/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-ansible_lint/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-ansible_lint)|[![quality](https://img.shields.io/ansible/quality/58481)](https://galaxy.ansible.com/buluma/ansible_lint)|[![downloads](https://img.shields.io/ansible/role/d/58481)](https://galaxy.ansible.com/buluma/ansible_lint)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
