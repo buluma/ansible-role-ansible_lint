@@ -11,8 +11,6 @@ variables:
 molecule:
   script:
     - image=${image} tag=${tag} molecule test
-  rules:
-    - if: $CI_COMMIT_REF_NAME == "master"
   retry: 1
   parallel:
     matrix:
@@ -26,8 +24,6 @@ molecule:
         tag: "34"
       - image: "fedora-systemd"
         tag: "latest"
-      - image: "fedora-systemd"
-        tag: "rawhide"
       - image: "docker-ubuntu-systemd"
         tag: "latest"
       - image: "docker-ubuntu-systemd"
@@ -53,35 +49,6 @@ testing:
         tag: "34"
       - image: "fedora-systemd"
         tag: "latest"
-      - image: "fedora-systemd"
-        tag: "rawhide"
-      - image: "docker-ubuntu-systemd"
-        tag: "latest"
-      - image: "docker-ubuntu-systemd"
-        tag: "bionic"
-      - image: "docker-ubuntu-systemd"
-        tag: "focal"
-
-role_testing:
-  script:
-    - image=${image} tag=${tag} ansible-galaxy install buluma.ansible_lint
-  rules:
-    - if: $CI_COMMIT_REF_NAME == "testing"
-  retry: 1
-  parallel:
-    matrix:
-      - image: "enterpriselinux"
-        tag: "latest"
-      - image: "debian-systemd"
-        tag: "latest"
-      - image: "debian-systemd"
-        tag: "bookworm"
-      - image: "fedora-systemd"
-        tag: "34"
-      - image: "fedora-systemd"
-        tag: "latest"
-      - image: "fedora-systemd"
-        tag: "rawhide"
       - image: "docker-ubuntu-systemd"
         tag: "latest"
       - image: "docker-ubuntu-systemd"
@@ -93,7 +60,7 @@ galaxy:
   script:
     - ansible-galaxy role info buluma.ansible_lint
 
-role_testing_live:
+role_testing:
   script:
     - image=${image} tag=${tag} ansible-galaxy install buluma.ansible_lint
   retry: 1
@@ -109,8 +76,6 @@ role_testing_live:
         tag: "34"
       - image: "fedora-systemd"
         tag: "latest"
-      - image: "fedora-systemd"
-        tag: "rawhide"
       - image: "docker-ubuntu-systemd"
         tag: "latest"
       - image: "docker-ubuntu-systemd"
