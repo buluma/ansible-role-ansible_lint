@@ -47,7 +47,7 @@ jobs:
       - name: Checkout current repo
         uses: actions/checkout@v2
         with:
-          path: main
+          path: master
 
       - name: Commit Changelog file
         run: |
