@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ansible_lint/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.4...HEAD)
+
+**Implemented enhancements:**
+
+- changelog [\#7](https://github.com/buluma/ansible-role-ansible_lint/pull/7) ([buluma](https://github.com/buluma))
+
 ## [v0.1.4](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.4) (2022-03-31)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.3...v0.1.4)
