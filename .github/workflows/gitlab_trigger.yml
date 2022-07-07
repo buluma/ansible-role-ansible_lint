@@ -1,7 +1,12 @@
 ---
 name: Mirror and run GitLab CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+      - main
+      - testing
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
@@ -20,7 +25,7 @@ jobs:
           message: Starting buluma.ansible_lint GitLab Trigger...
         if: always()
       - uses: actions/checkout@v3
-      - name: Mirror + trigger CI.
+      - name: Mirror + trigger CI
         uses: buluma/gitlab-mirror-ci-action@1.0.6
         with:
           args: "buluma/ansible-role-ansible_lint"
