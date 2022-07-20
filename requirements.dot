@@ -1,0 +1,15 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "ansible_lint" [fillcolor=yellow style=filled penwidth=3]
+    "buluma.bootstrap" [fillcolor=green style=filled]
+    "buluma.buildtools" [fillcolor=green style=filled]
+    "buluma.epel" [fillcolor=green style=filled]
+    "buluma.python_pip" [fillcolor=green style=filled]
+  }
+  "ansible_lint" -> "buluma.bootstrap"
+  "ansible_lint" -> "buluma.buildtools"
+  "ansible_lint" -> "buluma.epel"
+  "ansible_lint" -> "buluma.python_pip"
+}
