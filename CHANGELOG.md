@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.6](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.6) (2022-09-11)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.5...v0.1.6)
+
 ## [v0.1.5](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.5) (2022-04-16)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.4...v0.1.5)
