@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ansible_lint/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.7...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 5.0.1 to 5.0.4 [\#13](https://github.com/buluma/ansible-role-ansible_lint/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v0.1.7](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.7) (2022-10-05)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.6...v0.1.7)
