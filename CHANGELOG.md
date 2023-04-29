@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 5.0.4 to 5.0.5 [\#16](https://github.com/buluma/ansible-role-ansible_lint/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.7 [\#15](https://github.com/buluma/ansible-role-ansible_lint/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.1.8](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.8) (2023-04-15)
