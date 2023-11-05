@@ -2,9 +2,9 @@
 
 Install ansible-lint on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
 |------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-ansible_lint/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-ansible_lint/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-ansible_lint)|[![quality](https://img.shields.io/ansible/quality/4638)](https://galaxy.ansible.com/buluma/ansible_lint)|[![downloads](https://img.shields.io/ansible/role/d/4638)](https://galaxy.ansible.com/buluma/ansible_lint)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/pulls/)|
+|[![github](https://github.com/buluma/ansible-role-ansible_lint/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-ansible_lint/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-ansible_lint)|[![downloads](https://img.shields.io/ansible/role/d/4638)](https://galaxy.ansible.com/buluma/ansible_lint)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -74,7 +74,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |[Fedora](https://hub.docker.com/repository/docker/buluma/fedora/general)|all|
 |[Ubuntu](https://hub.docker.com/repository/docker/buluma/ubuntu/general)|all|
 
-The minimum version of Ansible required is 2.10, tests have been done to:
+The minimum version of Ansible required is 2.12, tests have been done to:
 
 - The previous version.
 - The current version.
