@@ -3,7 +3,7 @@
 Install ansible-lint on your system.
 
 |GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
+|------|------|-------|-------|------|-------------|
 |[![github](https://github.com/buluma/ansible-role-ansible_lint/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-ansible_lint/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-ansible_lint)|[![downloads](https://img.shields.io/ansible/role/d/4638)](https://galaxy.ansible.com/buluma/ansible_lint)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/pulls/)|
 
 ## [Example Playbook](#example-playbook)
