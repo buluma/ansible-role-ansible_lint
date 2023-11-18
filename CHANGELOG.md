@@ -1,8 +1,17 @@
 # Changelog
 
-## [0.2.0](https://github.com/buluma/ansible-role-ansible_lint/tree/0.2.0) (2023-05-28)
+## [v1.0.1](https://github.com/buluma/ansible-role-ansible_lint/tree/v1.0.1) (2023-11-05)
 
-[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.9...0.2.0)
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v1.0.0...v1.0.1)
+
+## [v1.0.0](https://github.com/buluma/ansible-role-ansible_lint/tree/v1.0.0) (2023-11-05)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.9...v1.0.0)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#19](https://github.com/buluma/ansible-role-ansible_lint/issues/19)
+- Update action [\#18](https://github.com/buluma/ansible-role-ansible_lint/issues/18)
 
 ## [v0.1.9](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.9) (2023-05-05)
 
