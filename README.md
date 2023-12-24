@@ -1,10 +1,10 @@
-# [Ansible role ansible_lint](#ansible_lint)
+# Ansible role [ansible_lint](https://galaxy.ansible.com/ui/standalone/roles/buluma/ansible_lint/documentation)
 
 Install ansible-lint on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-ansible_lint/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-ansible_lint/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-ansible_lint/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-ansible_lint.svg)](https://github.com/buluma/ansible-role-ansible_lint/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/ansible_lint)](https://galaxy.ansible.com/ui/standalone/roles/buluma/ansible_lint/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -92,9 +92,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
