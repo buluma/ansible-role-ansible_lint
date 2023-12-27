@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-ansible_lint/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/1.0.2...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#24](https://github.com/buluma/ansible-role-ansible_lint/issues/24)
+
 ## [1.0.2](https://github.com/buluma/ansible-role-ansible_lint/tree/1.0.2) (2023-12-17)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v1.0.1...1.0.2)
