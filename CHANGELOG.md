@@ -8,6 +8,10 @@
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#24](https://github.com/buluma/ansible-role-ansible_lint/issues/24)
 
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.7 to 1.0.8 [\#26](https://github.com/buluma/ansible-role-ansible_lint/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.0.2](https://github.com/buluma/ansible-role-ansible_lint/tree/1.0.2) (2023-12-17)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v1.0.1...1.0.2)
