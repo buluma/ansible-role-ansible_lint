@@ -7,6 +7,8 @@
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#24](https://github.com/buluma/ansible-role-ansible_lint/issues/24)
+- Update action [\#23](https://github.com/buluma/ansible-role-ansible_lint/issues/23)
+- rebuild action [\#22](https://github.com/buluma/ansible-role-ansible_lint/issues/22)
 
 **Merged pull requests:**
 
