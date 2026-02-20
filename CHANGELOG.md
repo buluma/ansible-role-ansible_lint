@@ -12,6 +12,7 @@
 
 **Merged pull requests:**
 
+- Bump actions/checkout from 4 to 6 [\#35](https://github.com/buluma/ansible-role-ansible_lint/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#29](https://github.com/buluma/ansible-role-ansible_lint/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#28](https://github.com/buluma/ansible-role-ansible_lint/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#27](https://github.com/buluma/ansible-role-ansible_lint/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
