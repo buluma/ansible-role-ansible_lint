@@ -1,2 +1,3 @@
 ansible-role-ansible_lint
 ansible-role-ansible_lint
+ansible-role-ansible_lint [generator]: ERROR: Unhandled exception when retrieving 'DEFAULT_LOCAL_TMP': [Errno 1] Operation not permitted: '/Users/shadowwalker/.ansible/tmp/ansible-local-82063c09zlom2'
