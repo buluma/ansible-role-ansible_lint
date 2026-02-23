@@ -11,6 +11,7 @@ Install ansible-lint on your system.
 This example is taken from [`molecule/default/converge.yml`](https://github.com/buluma/ansible-role-ansible_lint/blob/master/molecule/default/converge.yml) and is tested on each push, pull request and release.
 
 ```yaml
+---
   - name: Converge
     hosts: all
     become: true
@@ -23,6 +24,7 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
 The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-ansible_lint/blob/master/molecule/default/prepare.yml):
 
 ```yaml
+---
   - name: Prepare
     hosts: all
     gather_facts: false
