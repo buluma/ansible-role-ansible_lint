@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-ansible_lint/tree/HEAD)
+## [v26.6.0](https://github.com/buluma/ansible-role-ansible_lint/tree/v26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/1.0.2...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/1.0.2...v26.6.0)
 
 **Closed issues:**
 
