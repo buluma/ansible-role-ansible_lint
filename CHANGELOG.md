@@ -68,13 +68,16 @@
 
 - changelog [\#7](https://github.com/buluma/ansible-role-ansible_lint/pull/7) ([buluma](https://github.com/buluma))
 
+**Merged pull requests:**
+
+- versions bump [\#6](https://github.com/buluma/ansible-role-ansible_lint/pull/6) ([buluma](https://github.com/buluma))
+
 ## [v0.1.4](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.4) (2022-03-31)
 
 [Full Changelog](https://github.com/buluma/ansible-role-ansible_lint/compare/v0.1.3...v0.1.4)
 
 **Merged pull requests:**
 
-- versions bump [\#6](https://github.com/buluma/ansible-role-ansible_lint/pull/6) ([buluma](https://github.com/buluma))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#5](https://github.com/buluma/ansible-role-ansible_lint/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v0.1.3](https://github.com/buluma/ansible-role-ansible_lint/tree/v0.1.3) (2022-03-23)
