@@ -8,4 +8,4 @@ _ansible_lint_packages:
   Debian:
     - name: ansible-lint
       type: package
-ansible_lint_packages: "{{ _ansible_lint_packages[ansible_facts.os_family] | default(_ansible_lint_packages['default']) }}"
+ansible_lint_packages: "{{ _ansible_lint_packages[ansible_facts['os_family']] | default(_ansible_lint_packages['default']) }}"
