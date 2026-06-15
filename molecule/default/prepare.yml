@@ -8,4 +8,3 @@
     - role: buluma.bootstrap
     - role: buluma.buildtools
     - role: buluma.epel
-    - role: buluma.python_pip

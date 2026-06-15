@@ -4,6 +4,7 @@
 - name: Install ansible_lint using pip
   ansible.builtin.pip:
     name: "{{ item.name }}"
+    extra_args: "{{ item.extra_args | default(omit) }}"
   when:
     - item.type == "pip"
   loop: "{{ ansible_lint_packages }}"
