@@ -11,5 +11,4 @@ _ansible_lint_packages:
   RedHat:
     - name: ansible-lint
       type: pip
-      extra_args: "--ignore-installed"
 ansible_lint_packages: "{{ _ansible_lint_packages[ansible_facts['os_family']] | default(_ansible_lint_packages['default']) }}"
